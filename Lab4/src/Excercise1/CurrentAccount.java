@@ -1,0 +1,10 @@
+package Excercise1;
+
+public class CurrentAccount {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
